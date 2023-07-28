@@ -1,0 +1,17 @@
+{
+  "name": "contentful-content-duplication",
+  "version": "1.0.0",
+  "description": "Duplicate content with a certain tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"lol tests\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contentful-export": "7.19.66",
+    "contentful-import": "8.5.63",
+    "ulid": "2.3.0"
+  }
+}
